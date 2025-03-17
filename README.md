@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**Azizbek2812/Azizbek2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Salom, men Azizbek Murtozayev!
 
-Here are some ideas to get you started:
+Men Java backend dasturchisiman. Asosan Spring Boot, PostgreSQL, va JDBC bilan ishlayman. Dasturlashga bo'lgan qiziqishim va tajribamni oshirish uchun turli loyihalarda ishtirok etyapman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Mening Texnologiyalarim:
+
+Java, Spring Boot, Hibernate, JDBC
+
+PostgreSQL, SQL, Database optimizatsiya
+
+REST API, Swagger, MapStruct
+
+IntelliJ IDEA, Git, GitHub
+
+🚀 Repositori haqida
+
+Bu repository mening shaxsiy tajribam, loyihalarim va o'rganish jarayonimni hujjatlashtirish uchun yaratilgan. Bunda siz quyidagi turdagi materiallarni topishingiz mumkin:
+
+Java backend bo'yicha misollar
+
+Spring Boot va Hibernate ishlatilgan loyihalar
+
+PostgreSQL bo'yicha ma'lumotlar
+
+Turli texnologiyalar va dasturlash muammolari yechimlari
+
+📫 Menga bog'lanish
+
+Email: murtozayev.azizbek@example.com
+
+LinkedIn: Profilim
+
+GitHub: AzizbekMurtozayev
+
+Agar foydali bo'lsa, yulduzcha ⭐ bosib qo'ying! Rahmat! 😊
+
+
