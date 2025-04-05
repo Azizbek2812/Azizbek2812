@@ -28,11 +28,9 @@ Turli texnologiyalar va dasturlash muammolari yechimlari
 
 📫 Menga bog'lanish
 
-Email: murtozayev.azizbek@example.com
+Email: murtozayevazizbek2812@gmail.com
 
-LinkedIn: Profilim
-
-GitHub: AzizbekMurtozayev
+LinkedIn:[ Profilim](https://www.linkedin.com/in/azizbek-murtozayev-10432a336/)
 
 Agar foydali bo'lsa, yulduzcha ⭐ bosib qo'ying! Rahmat! 😊
 
